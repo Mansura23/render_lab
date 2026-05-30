@@ -1,7 +1,7 @@
 Product API - Render Deployment
 
 Base URL:
-https://your-render-app.onrender.com/api
+https://render-lab-lbmh.onrender.com
 
 ENDPOINTS
 
